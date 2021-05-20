@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**kadev-oclock/kadev-oclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.fr/">soon</a> •
+  <a href="https://twitter.com/ka_dev16">Twitter</a> •
+  <a href="https://www.linkedin.com/in/karim-a-a23816176">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+I'm a __ developer fullstack junior__  based in __France__. I love learning new things and implementing them right away! I love the front-end and the back-end, my goal is to become a developer designer and work in a human-sized structure I'm ready for discussions and making new projects,on Dev.to etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* 📫 Contact me [@kadev_16(https://twitter.com/kadev_16)
+
+## My skill
+
+![Cover](https://github.com/kadev-oclock/kadev-oclock/blob/master/img/skills.jpg)
