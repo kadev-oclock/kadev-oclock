@@ -13,7 +13,5 @@ I'm a __ developer fullstack junior__  based in __France__. I love learning new 
 ## My skill
 
 
-  <img align="center" alt="Skills" src="(https://github.com/kadev-oclock/kadev-oclock/blob/main/img/skills.png" />
-</p>
 
 ![Cover](https://github.com/kadev-oclock/kadev-oclock/blob/main/img/skills.png)
