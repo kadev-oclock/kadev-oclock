@@ -13,7 +13,7 @@
 
 Après une carrière de 19 ans dans l'imprimerie en tant que Technicien conducteur et coloriste , j'ai pris la décision d'opérer une reconversion professionnelle dans un domaine que j'affectionne depuis des années: le développement web.
 
-C'est par le biais de Digital campus pour la partie Chef de projet digital et ensuite avec l'école O'clock certifiée grande école du numérique que j'ai pu opérer cette reconversion dans le domaine du développement web. Durant six mois, j'ai suivi un cursus me permettant d'acquérir les bases de la programmation sur différentes technologies.
+C'est par le biais de Digital campus pour la partie Chef de projet digital et  ensuite avec l'école O'clock certifiée grande école du numérique que j'ai pu opérer cette reconversion dans le domaine du développement web. Durant six mois, j'ai suivi un cursus me permettant d'acquérir les bases de la programmation sur différentes technologies.
 
 ## Stack
 
@@ -31,24 +31,32 @@ C'est par le biais de Digital campus pour la partie Chef de projet digital et en
 [![forthebadge](https://forthebadge.com/images/badges/built-with-wordpress.svg)](https://forthebadge.com)
 
 ## ⚡️ Quelques infos en plus
-
+- Certification niveau Bac+ 2 Maquettiste info-graphiste
+- Bachelor  Chef de projet digital
+- Certification OPQUAST
 ### Back
-
-- **PHP 7** dont POO, MVC, JWT Web Token
-- **Symfony 5** dont EasyAdmin3, Voters, twig (filtres, fonctions ...), Mailer, Services, Commandes custom, gestion des droits, Validator custom combinant plusieurs champs
-
+Connaissance de : 
+- **PHP 7** dont POO, MVC 
+- **Symfony 5** dont EasyAdmin3, Voters, twig (filtres, fonctions ...), Mailer, Services, Commandes custom, gestion des droits.
 ### Front
 
-- **Javascript Vanilla** : fonctions , AJAX pour communication avec API REST ou API publique
-- HTML5, CSS3, dont le framework CSS Boostrap 5
+- **Javascript Vanilla** : AJAX, API REST ou API publique
+- HTML5, CSS3, dont le framework Boostrap 5
 
+### WebDesign
+- Bonne connaissance **Photoshop**
+- Bonne connaissance **Indesign**
+- Bonne connaissance **Illlustrator**
+
+### CMS
+- Bonne connaissance de **wordpress**
 ### J'ai prévu :
 
-- d'apprendre Docker et  React 
-- découvrir Python,
+- d'apprendre Vue et React 
+- découvrir Python,Docker
 - aller plus loin avec Symfony et Wordpress.
+- TDD
 
 [![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Python-5849be?style=for-the-badge&logo=python&logoColor=white)](http://forthebadge.com)
-
