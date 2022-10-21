@@ -42,6 +42,7 @@ Connaissance de :
 
 - **Javascript Vanilla** : AJAX, API REST ou API publique
 - HTML5, CSS3, dont le framework Boostrap 5
+- React
 
 ### WebDesign
 - Bonne connaissance **Photoshop**
@@ -52,9 +53,9 @@ Connaissance de :
 - Bonne connaissance de **wordpress**
 ### J'ai prévu :
 
-- d'apprendre Vue et React 
+- d'apprendre Vue 
 - découvrir Python,Docker
-- aller plus loin avec Symfony et Wordpress.
+- aller plus loin avec Symfony.
 - TDD
 
 [![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
