@@ -13,7 +13,7 @@
 
 Après une carrière de 19 ans dans l'imprimerie en tant que Technicien conducteur et coloriste , j'ai pris la décision d'opérer une reconversion professionnelle dans un domaine que j'affectionne depuis des années: le développement web.
 
-C'est par le biais de Digital campus pour la partie Chef de projet digital et  ensuite avec l'école O'clock certifiée grande école du numérique que j'ai pu opérer cette reconversion dans le domaine du développement web. Durant six mois, j'ai suivi un cursus me permettant d'acquérir les bases de la programmation sur différentes technologies.
+C'est par le biais de Digital campus pour la partie Chef de projet digital et  ensuite avec l'école Wild code school certifiée grande école du numérique que j'ai pu opérer cette reconversion dans le domaine du développement web. Durant six mois, j'ai suivi un cursus me permettant d'acquérir les bases de la programmation sur différentes technologies.
 
 ## Stack
 
