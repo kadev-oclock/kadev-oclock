@@ -36,13 +36,16 @@ C'est par le biais de Digital campus pour la partie Chef de projet digital et  e
 - Certification OPQUAST
 ### Back
 Connaissance de : 
+- **Node
+- **Express
 - **PHP 7** dont POO, MVC 
-- **Symfony 5** dont EasyAdmin3, Voters, twig (filtres, fonctions ...), Mailer, Services, Commandes custom, gestion des droits.
+- **Symfony 5** dont EasyAdmin3, Voters, Mailer, Services, Commandes custom, gestion des droits.
+- 
 ### Front
-
-- **Javascript Vanilla** : AJAX, API REST ou API publique
+- **React** 
+-  AJAX, API REST ou API publique
 - HTML5, CSS3, dont le framework Boostrap 5
-- React
+
 
 ### WebDesign
 - Bonne connaissance **Photoshop**
@@ -51,11 +54,11 @@ Connaissance de :
 
 ### CMS
 - Bonne connaissance de **wordpress**
-### J'ai prévu :
 
-- d'apprendre Vue 
-- découvrir Python,Docker
-- aller plus loin avec Symfony.
+### J'ai prévu d'apprendre :
+-  Next-js,three js 
+- découvrir Docker
+- aller plus loin avec React.
 - TDD
 
 [![forthebadge](https://img.shields.io/badge/Vue-563D7C?style=for-the-badge&logo=vue&logoColor=white)](http://forthebadge.com)
