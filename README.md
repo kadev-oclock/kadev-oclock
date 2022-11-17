@@ -36,8 +36,8 @@ C'est par le biais de Digital campus pour la partie Chef de projet digital et  e
 - Certification OPQUAST
 ### Back
 Connaissance de : 
-- **Node
-- **Express
+- **Node**
+- **Express**
 - **PHP 7** dont POO, MVC 
 - **Symfony 5** dont EasyAdmin3, Voters, Mailer, Services, Commandes custom, gestion des droits.
 - 
