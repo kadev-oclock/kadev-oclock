@@ -30,7 +30,10 @@ C'est par le biais de Digital campus pour la partie Chef de projet digital et  e
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-wordpress.svg)](https://forthebadge.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadev-oclock&show_icons=true&theme=radical)
+
 ## ⚡️ Quelques infos en plus
+- Concepteur d'application React niveau 6 (OpenClassroom)
 - Certification niveau Bac+ 2 Maquettiste info-graphiste
 - Bachelor  Chef de projet digital
 - Certification OPQUAST
