@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
   <a href="https://www.fr/">soon</a> •
-  <a href="https://twitter.com/ka_dev16">Twitter</a> •
   <a href="https://www.linkedin.com/in/karim-a-a23816176">Linkedin</a>
 </p>
 
@@ -18,17 +17,15 @@ Après une carrière de 19 ans dans l'imprimerie en tant que Technicien conducte
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadev-oclock&show_icons=true&theme=radical)
 
 ## ⚡️ Quelques infos en plus
-- Concepteur d'application React niveau 6 (OpenClassroom)
+- concepteur développeur d'applications  niveau 6 (O’clock)
 - Certification niveau Bac+ 2 Maquettiste info-graphiste
-- Bachelor  Chef de projet digital
+- Bachelor  Chef de projet digital(gestion de projet)
 - Certification OPQUAST
 ### Back
 Connaissance de : 
 - **Node**
 - **Express**
 - **PHP 7** dont POO, MVC 
-- **Symfony 5** dont EasyAdmin3, Voters, Mailer, Services, Commandes custom, gestion des droits.
-- 
 ### Front
 - **React** 
 -  AJAX, API REST ou API publique
@@ -39,6 +36,7 @@ Connaissance de :
 - Bonne connaissance **Photoshop**
 - Bonne connaissance **Indesign**
 - Bonne connaissance **Illlustrator**
+- Bonne connaissance **Figma**
 
 ### CMS
 - Bonne connaissance de **wordpress**
