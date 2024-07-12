@@ -27,11 +27,12 @@ Après une carrière de 19 ans dans l'imprimerie en tant que Technicien conducte
 Connaissance de : 
 - **Node**
 - **Express**
-- **React
-- **TypeScript
+- **Nest**
+
 
 ### Front-End Skills
-- **React** 
+- **React**
+- - **TypeScript**
 - AJAX, API REST ou API publique
 - HTML5, CSS3,,tailwind
 
@@ -47,6 +48,7 @@ Connaissance de :
 ### J'ai prévu d'apprendre :
 - Aller plus loin avec **React**
 - **TDD**
+- **Next**
 
 ## Badges
 
@@ -67,7 +69,9 @@ Connaissance de :
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kadev-oclock.kadev-oclock)
 
 ## Formation et Compétences
-
+- Certification niveau Bac+2 Maquettiste info-graphiste
+- Bachelor Chef de projet digital (gestion de projet)
+  
 ### Conception et Développement
 
 - **Architecture MVC**
