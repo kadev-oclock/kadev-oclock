@@ -10,7 +10,11 @@
 
 ### A propos de moi...
 
-Après une carrière de 19 ans dans l'imprimerie en tant que Technicien conducteur et coloriste, j'ai pris la décision d'opérer une reconversion professionnelle dans un domaine que j'affectionne depuis des années: le développement web.
+Après 20 ans d'expérience en tant que technicien coloriste suivi d’
+une réorientation en Bachelor Chef de projet et d’une formation de
+Concepteur Développeur à l'école Oclock, je suis à la recherche de
+nouveaux défis passionnants à relever en tant que Développeur
+Front-end web et mobile.
 
 ## Stats
 
