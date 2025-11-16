@@ -32,6 +32,7 @@ Connaissance de :
 - **Node**
 - **Express**
 - **Nest**
+- **symfony**
 
 
 ### Front-End Skills
@@ -73,7 +74,7 @@ Connaissance de :
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kadev-oclock.kadev-oclock)
 
 ## Formation et Compétences
-- Certification niveau Bac+2 Maquettiste info-graphiste
+- Bac+2 Maquettiste info-graphiste
 - Bachelor Chef de projet digital (gestion de projet)
   
 ### Conception et Développement
