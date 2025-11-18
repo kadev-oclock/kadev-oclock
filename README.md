@@ -1,13 +1,16 @@
 <h1 align="center">👋 Salut, je suis Karim</h1>
 
 <p align="center">
+  <a href="https://nekodigital.fr">
+    <img src="https://img.shields.io/badge/Portfolio-5f4dee?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/karim-a-a23816176">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/kadev_16">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="mailto:contact@nekodigital.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -165,11 +168,27 @@ const currentGoals = {
 
 ---
 
+## 🎨 Mon Portfolio
+
+<p align="center">
+  <a href="https://nekodigital.fr">
+    <img src="https://img.shields.io/badge/🐱_Neko_Digital-Découvrir_mon_portfolio-5f4dee?style=for-the-badge" alt="Neko Digital"/>
+  </a>
+</p>
+
+<p align="center">
+  Découvrez mes projets et mes réalisations sur <strong><a href="https://nekodigital.fr">nekodigital.fr</a></strong><br/>
+  <em>Design minimaliste inspiré de l'esthétique japonaise 🎌</em>
+</p>
+
+---
+
 ## 📫 Me contacter
 
 <p align="center">
   💼 Ouvert aux opportunités en tant que <strong>Développeur FullStack</strong><br/>
-  📧 <a href="mailto:contact@example.com">contact@example.com</a><br/>
+  🌐 Portfolio: <a href="https://nekodigital.fr"><strong>nekodigital.fr</strong></a><br/>
+  📧 <a href="mailto:contact@nekodigital.fr">contact@nekodigital.fr</a><br/>
   🐦 <a href="https://twitter.com/kadev_16">@kadev_16</a><br/>
   💼 <a href="https://www.linkedin.com/in/karim-a-a23816176">LinkedIn</a>
 </p>
