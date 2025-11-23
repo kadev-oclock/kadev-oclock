@@ -41,120 +41,37 @@ Développeur FullStack passionné avec un parcours unique : **20 ans d'expérien
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadev-oclock&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadev-oclock&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadev-oclock&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadev-oclock&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=kadev-oclock&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadev-oclock&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+  
+</div>
 
 ---
 
 ## 🛠️ Stack Technique
 
-### 💻 Langages & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
+<p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
+  <br/>
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-</p>
-
-### 🗄️ Bases de Données
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🔧 Outils & DevOps
-
-<p align="left">
+  <br/>
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </p>
 
-### 🎨 Design
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="InDesign"/>
-</p>
-
 ---
 
-## 📚 Compétences & Méthodologies
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### 🏗️ Architecture
-- Architecture MVC
-- MVVM (Model-View-ViewModel)
-- Domain Driven Development
-- Principes SOLID
-- Clean Architecture
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 🔄 Méthodologies
-- SCRUM
-- KANBAN
-- CI/CD
-- TDD (en apprentissage)
-- Code Review
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 🧪 Tests & Qualité
-- Tests unitaires (Jest)
-- Tests d'intégration
-- Tests de charge
-- Tests automatisés
-- Certification OPQUAST
-      
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌟 Projets en cours d'apprentissage
+## 🌟 Objectifs actuels
 
 ```javascript
 const currentGoals = {
@@ -196,7 +113,7 @@ const currentGoals = {
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kadev-oclock.kadev-oclock" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=kadev-oclock&color=blueviolet&style=flat-square&label=Visiteurs" alt="Visitors"/>
   <img src="https://img.shields.io/github/followers/kadev-oclock?label=Followers&style=social" alt="Followers"/>
 </p>
 
