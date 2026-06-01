@@ -1,119 +1,179 @@
 <div align="center">
-<!-- Bannière animée SVG custom -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=200&section=header&text=KARIM&fontSize=60&fontColor=22d3ee&fontAlignY=45&desc=Admin%20Systèmes%20%26%20Réseaux%20—%20TSSR%20Niv.5&descSize=16&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
+
 </div>
+
 <div align="center">
-```
-██╗  ██╗ █████╗ ██████╗ ██╗███╗   ███╗
-██║ ██╔╝██╔══██╗██╔══██╗██║████╗ ████║
-█████╔╝ ███████║██████╔╝██║██╔████╔██║
-██╔═██╗ ██╔══██║██╔══██╗██║██║╚██╔╝██║
-██║  ██╗██║  ██║██║  ██║██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-```
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7F7&center=true&vCenter=true&width=480&lines=Admin+Syst%C3%A8mes+%26+R%C3%A9seaux+%E2%80%94+TSSR+Niveau+5;Windows+Server+%C2%B7+VMware+%C2%B7+Linux+%C2%B7+Veeam;Fullstack+dev+reconverti+infra+%F0%9F%94%A7;Disponible+fin+juin+2026+%E2%80%94+%C3%8Ele-de-France" alt="Typing"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=22D3EE&center=true&vCenter=true&width=520&lines=Windows+Server+%C2%B7+VMware+%C2%B7+Linux+%C2%B7+Veeam;TSSR+Niv.5+%7C+Nextformation+2025%E2%80%932026;Dev+fullstack+reconverti+infra+%F0%9F%94%A7;%5B+Disponible+fin+juin+2026+%E2%80%94+%C3%8Ele-de-France+%5D" alt="typing"/>
+
 <br/>
-![Portfolio](https://img.shields.io/badge/nekodigital.fr-5f4dee?style=flat-square&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/contact%40nekodigital.fr-D14836?style=flat-square&logo=gmail&logoColor=white)
-![Dispo](https://img.shields.io/badge/Disponible-fin_juin_2026-22c55e?style=flat-square)
+
+[![Portfolio](https://img.shields.io/badge/nekodigital.fr-0d1117?style=flat-square&logo=vercel&logoColor=22d3ee)](https://nekodigital.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/karim-a-a23816176)
+[![Email](https://img.shields.io/badge/contact@nekodigital.fr-0d1117?style=flat-square&logo=gmail&logoColor=22d3ee)](mailto:contact@nekodigital.fr)
+[![Dispo](https://img.shields.io/badge/●_DISPONIBLE-fin_juin_2026-22c55e?style=flat-square&labelColor=0d1117)](https://www.linkedin.com/in/karim-a-a23816176)
+
 </div>
----
-`> whoami`
-Technicien Systèmes & Réseaux en fin de formation TSSR Niveau 5 (Nextformation, déc. 2025 → juin 2026).  
-Développeur fullstack de formation, reconverti vers l'administration système et réseau — je comprends l'infra et le code qui tourne dessus.
-> Recherche poste **support N1/N2** ou **sysadmin junior polyvalent** — Île-de-France, disponible fin juin 2026.
----
-`> ls -la ./skills`
+
+<br/>
+
+```bash
+$ whoami
+```
+
+> Technicien Systèmes & Réseaux — **TSSR Niveau 5** (Nextformation, déc. 2025 → juin 2026).  
+> Dev fullstack reconverti infra : je comprends l'infra **et** le code qui tourne dessus.  
+> Recherche **support N1/N2** ou **sysadmin junior polyvalent** — Île-de-France, dispo fin juin 2026.
+
+<br/>
+
+```bash
+$ ls -la ./skills
+```
+
 <table>
 <tr>
-<td valign="top" width="50%">
-🖥️ Systèmes & Réseau
-```
-Windows Server 2025   ████████████  AD/GPO/DNS/DHCP
-Debian 12 / Linux     ███████████   CLI, SSH, LAMP
-PowerShell / Bash     █████████     Scripts admin
-GLPI 10               ████████      Helpdesk / LDAP
-TCP/IP / VLANs        ████████      Packet Tracer
-```
+<td width="50%" valign="top">
+
+**`🖥️  SYSTÈMES & RÉSEAU`**
+
+| Compétence | Niveau |
+|---|---|
+| Windows Server 2025 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
+| Active Directory / GPO | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
+| Debian 12 / Linux | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| PowerShell / Bash | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| GLPI 10 / LDAP | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| DNS / DHCP / TCP-IP | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
+
 </td>
-<td valign="top" width="50%">
-⚙️ Virtualisation & Backup
-```
-VMware vCenter 8      ████████████  ESXi, vMotion
-VMware Workstation    ████████████  Lab complet
-Veeam B&R             ███████████   Backup/Restore
-iSCSI / NAS           █████████     Synology DS218+
-Proxmox               ███████       En cours
-```
+<td width="50%" valign="top">
+
+**`⚙️  VIRTUALISATION & BACKUP`**
+
+| Compétence | Niveau |
+|---|---|
+| VMware Workstation | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| vCenter 8 + ESXi 8 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
+| Veeam B&R | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| iSCSI / vMotion | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| Synology NAS | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| Proxmox | 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛ |
+
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
-💡 Dev — atout différenciant
-```
-TypeScript / Node.js  ████████████
-Next.js 15 / React    ████████████
-Symfony 7             ███████████
-Docker                ████████████
-Prisma / Supabase     █████████
-```
+<td width="50%" valign="top">
+
+**`💡  DEV — atout différenciant`**
+
+| Compétence | Niveau |
+|---|---|
+| TypeScript / Node.js | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
+| Next.js 15 / React | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
+| Symfony 7 | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ |
+| Docker | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
+| Prisma / Supabase | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
+
 </td>
-<td valign="top" width="50%">
-🎓 Certifications & Formations
-```
-TSSR Niveau 5         Nextformation  2025–2026
-CDA Niveau 6          O'clock        2023
-Bachelor CDP Digital  —
-OPQUAST               —
-Bac+2 Infographiste   —
-```
+<td width="50%" valign="top">
+
+**`🎓  FORMATIONS & CERTS`**
+
+| | | |
+|---|---|---|
+| TSSR Niv.5 | Nextformation | 2025–26 |
+| CDA Niv.6 | O'clock | 2023 |
+| Bachelor | Chef de Projet Digital | 2019 |
+| OPQUAST | | 2018 |
+| Bac+2 | Maquettiste Infographiste | 2017 |
+
 </td>
 </tr>
 </table>
----
-`> cat ./experience`
-💼 CollectivHub — Freelance Fullstack Developer
-> Plateforme e-commerce pour AMAPs (circuits courts, agriculteurs locaux)
-Architecture et développement complet : Symfony 7 / React / TypeScript / Docker
-API REST, gestion adhérents, commandes, paiements
-Environnement conteneurisé, déploiement VPS
-Projet freelance réel mené jusqu'à un stade avancé
----
-🥋 KihApp — Développeur & Porteur de projet
-> SaaS de gestion pour clubs de sport de combat — en phase de test avec une association sportive réelle
-Stack : Next.js 15 / TypeScript / Prisma / Supabase / Clerk / Stripe
-Gestion membres, licences, paiements, planning
-Hébergé sur VPS Hostinger · `khiapp.eu`
-Phase test → modèle SaaS en cours de déploiement
----
-`> tree ./lab`
+
+<br/>
+
+```bash
+$ cat ./experience
 ```
-InfoTech Solutions SAS — infotech.lan
-├── Active Directory
-│   ├── Domaine Windows Server 2025
-│   ├── GPO (fond écran, restrictions CMD, déploiement MSI Foxit)
-│   └── GLPI 10 + intégration LDAP/AD
-├── Cluster VMware
-│   ├── vCenter 8.0 + 2× ESXi 8.0
-│   ├── Datastore iSCSI (VMnet11)
-│   └── Migration vMotion (VMnet12)
-├── Backup
-│   ├── Veeam B&R — jobs full + incrémental
-│   ├── Restore testé (Veeam Backup Browser)
-│   └── Synology DS218+ NAS
-└── Réseau
-    ├── DNS / DHCP / SSH
-    └── Cisco Packet Tracer
+
+**💼 CollectivHub — Freelance Fullstack Developer**
+
+> Plateforme e-commerce pour AMAPs — circuits courts, agriculteurs locaux
+
 ```
+stack  : Symfony 7 · React · TypeScript · Docker
+infra  : API REST · déploiement VPS · PostgreSQL
+rôle   : architecture, développement, déploiement complet
+```
+
 ---
-`> cat ./stats`
+
+**🥋 KihApp — Développeur & Porteur de projet**
+
+> SaaS gestion clubs de sport de combat — phase test avec association sportive réelle → modèle SaaS
+
+```
+stack  : Next.js 15 · TypeScript · Prisma · Supabase · Clerk · Stripe
+infra  : VPS Hostinger · khiapp.eu · Cloudflare DNS
+statut : phase test → déploiement SaaS en cours
+```
+
+<br/>
+
+```bash
+$ tree ./lab --charset=ascii
+```
+
+```
+InfoTech Solutions SAS  [infotech.lan]
+|
++-- Active Directory
+|   +-- Windows Server 2025  (DC, AD DS, DNS, DHCP)
+|   +-- GPO : fond ecran · restriction CMD · deploiement MSI Foxit
+|   \-- GLPI 10 + integration LDAP/AD  (tickets N1/N2)
+|
++-- Cluster VMware
+|   +-- vCenter 8.0 + 2x ESXi 8.0 Update 3
+|   +-- Datastore iSCSI  (VMnet11 · 172.20.20.0/24)
+|   \-- Migration vMotion  (VMnet12 · 172.20.30.0/24)
+|
++-- Backup
+|   +-- Veeam B&R  (jobs full + incremental)
+|   +-- Restore teste  (Veeam Backup Browser)
+|   \-- Synology DS218+  (192.168.1.160)
+|
+\-- Reseau
+    +-- DNS / DHCP / SSH
+    \-- Cisco Packet Tracer
+```
+
+<br/>
+
+```bash
+$ cat ./stats
+```
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kadev-oclock&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6ee7f7&icon_color=6ee7f7&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadev-oclock&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=6ee7f7&text_color=c9d1d9" height="160"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kadev-oclock&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee)](https://github.com/kadev-oclock)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=kadev-oclock&color=22d3ee&style=flat-square&label=Visiteurs)
+![](https://img.shields.io/github/followers/kadev-oclock?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117)
+
 </div>
----
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
-<sub>📍 Île-de-France · Disponible fin juin 2026 · <a href="mailto:contact@nekodigital.fr">contact@nekodigital.fr</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+`📍 Île-de-France` · `Disponible fin juin 2026` · [contact@nekodigital.fr](mailto:contact@nekodigital.fr)
+
 </div>
