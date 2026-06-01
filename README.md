@@ -159,7 +159,7 @@ $ cat ./stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kadev-oclock&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee)](https://github.com/kadev-oclock)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kadev-oclock&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&days=365)](https://github.com/kadev-oclock)
 
 <br/>
 
