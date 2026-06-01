@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=200&section=header&text=KARIM&fontSize=60&fontColor=22d3ee&fontAlignY=45&desc=Admin%20Systèmes%20%26%20Réseaux%20—%20TSSR%20Niv.5&descSize=16&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
+![header](assets/header.svg)
 
 </div>
 
@@ -172,8 +172,6 @@ $ cat ./stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
-
-`📍 Île-de-France` · `Disponible fin juin 2026` · [contact@nekodigital.fr](mailto:contact@nekodigital.fr)
+![footer](assets/footer.svg)
 
 </div>
