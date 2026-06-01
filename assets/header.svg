@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0a3d62"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <!-- fond -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- vague bas -->
+  <path d="M0,160 C150,200 300,130 450,160 C600,190 750,130 900,160 L900,200 L0,200 Z" fill="#0d1117" opacity="0.8"/>
+  <!-- nom -->
+  <text x="450" y="90" font-family="monospace" font-size="52" font-weight="bold" fill="#22d3ee" text-anchor="middle" letter-spacing="8">KARIM</text>
+  <!-- sous-titre -->
+  <text x="450" y="125" font-family="monospace" font-size="14" fill="#94a3b8" text-anchor="middle" letter-spacing="2">Admin Systèmes &amp; Réseaux — TSSR Niv.5</text>
+  <!-- ligne déco -->
+  <line x1="300" y1="138" x2="600" y2="138" stroke="#22d3ee" stroke-width="0.5" opacity="0.4"/>
+  <!-- points déco -->
+  <circle cx="295" cy="138" r="2" fill="#22d3ee" opacity="0.6"/>
+  <circle cx="605" cy="138" r="2" fill="#22d3ee" opacity="0.6"/>
+</svg>
