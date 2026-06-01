@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <!-- fond uni sombre -->
+  <rect width="900" height="200" fill="#0d1117"/>
+  <!-- bandes de couleur simples -->
+  <rect width="900" height="200" fill="#0a3d62" opacity="0.3"/>
+  <!-- ligne déco gauche -->
+  <line x1="0" y1="160" x2="260" y2="160" stroke="#22d3ee" stroke-width="1" opacity="0.3"/>
+  <!-- ligne déco droite -->
+  <line x1="640" y1="160" x2="900" y2="160" stroke="#22d3ee" stroke-width="1" opacity="0.3"/>
+  <!-- nom -->
+  <text x="450" y="95" font-family="monospace" font-size="54" font-weight="bold" fill="#22d3ee" text-anchor="middle" letter-spacing="10">KARIM</text>
+  <!-- sous-titre -->
+  <text x="450" y="130" font-family="monospace" font-size="13" fill="#94a3b8" text-anchor="middle" letter-spacing="2">Admin Systemes &amp; Reseaux  —  TSSR Niv.5</text>
+  <!-- ligne centrale déco -->
+  <rect x="320" y="145" width="260" height="1" fill="#22d3ee" opacity="0.25"/>
+  <!-- point gauche -->
+  <circle cx="316" cy="145" r="2.5" fill="#22d3ee" opacity="0.5"/>
+  <!-- point droit -->
+  <circle cx="584" cy="145" r="2.5" fill="#22d3ee" opacity="0.5"/>
+  <!-- vague bas simulée avec rect -->
+  <rect y="185" width="900" height="15" fill="#0d1117"/>
+</svg>
