@@ -41,10 +41,10 @@ $ ls -la ./skills
 
 | Compétence | Niveau |
 |---|---|
-| Windows Server 2025 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
-| Active Directory / GPO | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
+| Windows Server 2025 | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| Active Directory / GPO | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
 | Debian 12 / Linux | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
-| PowerShell / Bash | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| PowerShell / Bash | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
 | GLPI 10 / LDAP | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
 | DNS / DHCP / TCP-IP | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
 
@@ -55,12 +55,12 @@ $ ls -la ./skills
 
 | Compétence | Niveau |
 |---|---|
-| VMware Workstation | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| vCenter 8 + ESXi 8 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ |
-| Veeam B&R | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| VMware Workstation | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| vCenter 8 + ESXi 8 | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| Veeam B&R | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
 | iSCSI / vMotion | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
 | Synology NAS | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
-| Proxmox | 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛ |
+| Proxmox | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
 
 </td>
 </tr>
@@ -71,9 +71,9 @@ $ ls -la ./skills
 
 | Compétence | Niveau |
 |---|---|
-| TypeScript / Node.js | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
-| Next.js 15 / React | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
-| Symfony 7 | 🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛ |
+| TypeScript / Node.js | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
+| Next.js 15 / React | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
+| Symfony 7 | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
 | Docker | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ |
 | Prisma / Supabase | 🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛ |
 
